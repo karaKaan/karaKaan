@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![#1589F0](https://via.placeholder.com/300) `#1589F0`
 
 
 <!--
