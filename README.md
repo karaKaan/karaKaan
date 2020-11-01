@@ -1,4 +1,18 @@
+
 ### Hi there, I am Kaan 👋
+
+## Languages & Tools 
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+
+<hr style="margin: 3% 10% 3% 10%;"/>
 
 
 
