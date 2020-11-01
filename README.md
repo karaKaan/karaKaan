@@ -12,8 +12,9 @@
 <img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
 <img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
-
-<hr style="margin: 10% 10% 10% 10%"/>
+<br/>
+<br/>
+<hr/>
 
 <img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />
 <img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
