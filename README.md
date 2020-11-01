@@ -33,6 +33,16 @@
 <img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 <img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" />
 <br>
+<br>
+<details open>
+<Summary>Github Stats</Summary>
+<br>
+
+![Anurag's github stats](https://github-readme-stats.karakaan1995.vercel.app/api?username=karaKaan&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=prs,issues,contribs)
+![Top Langs](https://github-readme-stats.karakaan1995.vercel.app/api/top-langs/?username=karaKaan&theme=tokyonight&layout=compact)
+
+
+</details>
 
 
 
