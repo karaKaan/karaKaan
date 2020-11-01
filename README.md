@@ -11,9 +11,14 @@
 <img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
 <img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
 
-<hr style="margin: 3% 10% 3% 10%;"/>
+<hr style="margin: 3% 10% 5% 10%;"/>
 
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" />
 
 
 
