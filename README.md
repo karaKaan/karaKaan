@@ -1,10 +1,11 @@
 
 ### Hi there, I am Kaan 👋
+<img src="img/Frame.svg">
 
 ## Contact me
 <a href="https://www.linkedin.com/in/kaan-kara/">
 <img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a><br><br>
 
 ## Languages & Tools 
 <img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
