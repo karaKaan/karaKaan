@@ -2,17 +2,17 @@
 ### Hi there, I am Kaan 👋
 <img src="img/Frame.svg">
 
-## News about me
+## 🌱 News about me
 🔭 I’m currently working on my Bachelor Thesis, which provides a SaaS for the optimal real estate search<br>
-🌱 I’m currently learning PERN-Stack, Sass, React-native, Responsive Design <br>
+📖 I’m currently learning PERN-Stack, Sass, React-native, Responsive Design <br>
 ⚡ Fun fact: I am a Coffee-drinker and a Cat Person
 
-## Connect with me
+## 💬 Connect with me
 <a href="https://www.linkedin.com/in/kaan-kara/">
 <img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><br><br>
 
-## Languages & Tools 
+## 💻 Languages & Tools 
 <img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 <img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
@@ -34,8 +34,9 @@
 <img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" />
 <br>
 <br>
-<details open>
-<Summary>Github Stats</Summary>
+<br>
+<details>
+<Summary style="font-size: 18px;">⚡ Github Stats</Summary>
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.karakaan1995.vercel.app/api?username=karaKaan&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=prs,issues,contribs)
