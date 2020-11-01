@@ -2,23 +2,23 @@
 ### Hi there, I am Kaan 👋
 
 ## Languages & Tools 
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
 
 <hr style="margin: 3% 10% 5% 10%;"/>
 
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-<img height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<img align="left" height="39" width="39" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" />
 
 
 
