@@ -1,6 +1,12 @@
 
 ### Hi there, I am Kaan 👋
-<img src="img/Frame.svg">
+<!-- <img src="img/Frame.svg"> -->
+<div style="text-align: center; padding: 5% 0 5% 0;">
+<img src="https://media.giphy.com/media/qiSEwLoxVI1PzMhn53/giphy.gif" />
+</div>
+
+
+
 
 ## Contact me
 <a href="https://www.linkedin.com/in/kaan-kara/">
