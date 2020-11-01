@@ -3,7 +3,7 @@
 <!-- <img src="img/Frame.svg"> -->
 <div style="text-align: center; padding: 5% 0 5% 0;">
 
-![](https://media.giphy.com/media/qiSEwLoxVI1PzMhn53/giphy.gif)
+<img src="img/programmerMode.gif" />
 </div>
 
 
