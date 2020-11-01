@@ -2,10 +2,12 @@
 ### Hi there, I am Kaan 👋
 <img src="img/Frame.svg">
 
+## News about me
+🔭 I’m currently working on my Bachelor Thesis, which provides a SaaS for the optimal real estate search<br>
+🌱 I’m currently learning PERN-Stack, Sass, React-native, Responsive Design <br>
+⚡ Fun fact: I am a Coffee-drinker and a Cat Person
 
-
-
-## Contact me
+## Connect with me
 <a href="https://www.linkedin.com/in/kaan-kara/">
 <img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><br><br>
@@ -42,12 +44,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my Bachelor Thesis
+- 🌱 I’m currently learning PERN-Stack, Sass 
+
+- ⚡ Fun fact: I am a Coffee-drinker and a Cat Person
 -->
