@@ -2,9 +2,6 @@
 ### Hi there, I am Kaan 👋
 <img src="img/Frame.svg">
 
-## 🌱 News about me
-🔭 I’m currently working on my Bachelor Thesis, which provides a SaaS for the optimal real estate search<br>
-📖 I’m currently learning PERN-Stack, Sass, React-native, Responsive Design <br>
 ⚡ Fun fact: I am a Coffee-drinker and a Cat Person
 
 ## 💬 Connect with me
@@ -46,17 +43,3 @@
 </details>
 
 
-
-
-
-
-<!--
-**karaKaan/karaKaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Bachelor Thesis
-- 🌱 I’m currently learning PERN-Stack, Sass 
-
-- ⚡ Fun fact: I am a Coffee-drinker and a Cat Person
--->
