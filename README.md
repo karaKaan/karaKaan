@@ -1,7 +1,5 @@
 
 ### Hi there, I am Kaan 👋
-<img src="img/Frame.svg">
-
 ⚡ Fun fact: I am a Coffee-drinker and a Cat Person
 
 ## 💬 Connect with me
