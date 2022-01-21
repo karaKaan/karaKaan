@@ -1,38 +1,20 @@
 
 ### Hi there, I am Kaan 👋
-<img src="img/Frame.svg">
-
-⚡ Fun fact: I am a Coffee-drinker and a Cat Person
+Fun fact: 
+<br />
+⚡ I like Coffee 
+<br />
+⚡ I like Cat
 
 ## 💬 Connect with me
 <a href="https://www.linkedin.com/in/kaan-kara/">
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img width="100" src="img/linkedin.svg" />
 </a><br><br>
 
 ## 💻 Languages & Tools 
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
-<br/>
-<br/>
-<hr/>
+<img height="200" width="250" src="img/skills.svg" />
 
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" />
-<br>
-<br>
-<br>
-<details>
+
 <Summary style="font-size: 18px;">⚡ Github Stats</Summary>
 <br>
 
