@@ -1,10 +1,14 @@
-
 ### Hi there, I am Kaan 👋
+
 Fun fact: 
 <br />
-⚡ I like Coffee 
+⚡ Coffee 
 <br />
-⚡ I like Cat
+⚡ Cats
+<br />
+⚡ Cook
+<br />
+⚡ Techy
 
 ## 💬 Connect with me
 <a href="https://www.linkedin.com/in/kaan-kara/">
@@ -12,7 +16,9 @@ Fun fact:
 </a><br><br>
 
 ## 💻 Languages & Tools 
-<img height="200" width="250" src="img/skills.svg" />
+<img  width="300" src="img/skills.svg" />
+<br/>
+<br/>
 
 
 <Summary style="font-size: 18px;">⚡ Github Stats</Summary>
