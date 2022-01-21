@@ -21,6 +21,7 @@ Fun fact:
 <br/>
 
 
+<details>
 <Summary style="font-size: 18px;">⚡ Github Stats</Summary>
 <br>
 
