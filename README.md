@@ -1,6 +1,8 @@
 
 ### Hi there, I am Kaan 👋
-⚡ Fun fact: I am a Coffee-drinker and a Cat Person
+⚡ Fun fact: 
+⚡ I'm a Coffee-drinker 
+⚡ I'm a Cat Person
 
 ## 💬 Connect with me
 <a href="https://www.linkedin.com/in/kaan-kara/">
@@ -8,7 +10,7 @@
 </a><br><br>
 
 ## 💻 Languages & Tools 
-<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" fill="#ffffff"/>
 <img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 <img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
