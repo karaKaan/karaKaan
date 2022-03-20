@@ -58,6 +58,7 @@
 ![Anurag's github stats](https://github-readme-stats.karakaan1995.vercel.app/api?username=karaKaan&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=prs,issues,contribs)
 
 ## ✍️ Latest Blog Posts
+In Progress...
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
