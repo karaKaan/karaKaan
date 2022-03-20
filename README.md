@@ -3,7 +3,7 @@
 </div>
 
 <div align='center'>
-<a href='https://www.linkedin.com/in/kaan-kara/'>
+<a href='https://www.linkedin.com/in/kaan-kara/' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white' width='15%' />
 </a>
 </div>
