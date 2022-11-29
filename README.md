@@ -22,22 +22,10 @@
 
 <br/>
 <div align='left'>
-<img src='https://skillicons.dev/icons?i=react,nextjs,typescript,js,html,css,styledcomponents,scss,tailwind,postgres,firebase,nodejs,expressjs,aws,svelte,vue&perline=10' />
+<img src='https://skillicons.dev/icons?i=react,nextjs,typescript,prisma,graphql,js,html,css,styledcomponents,scss,tailwind,postgres,firebase,nodejs,expressjs,aws&perline=10' />
 </div>
 <br/>
 <br/>
-
-### 💡 Currently Learning
-
-<br/>
-<div align='left'>
-<img src='https://skillicons.dev/icons?i=kubernetes,docker,solidity,prisma,graphql,apollo,&perline=10' />
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-<br/>
-</div>
 
 ### ⚒️ Toolings
 
